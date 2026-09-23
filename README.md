@@ -12,15 +12,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /> </p>
 
 ---
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-- 👨‍💻 **All of my projects are available at:** [projects](https://github.com/NaviyaGaming)<br>
-- 📫 **Reach me :** **navindu.subasinghe@gmail.com**<br>
-- 🌐 **Web Page:** [Navindu's Portfolio](https://navindu.allclouds.lk/)<br>
-- ⏳ **Current Status:** Upgrading AI & Security protocols.<br>
+<table align="center" style="border: 2px solid #0d1017">
+<tr>
+<td width="70%" align="left">
+- 👨‍💻 **All of my projects are available at:** [projects](https://github.com/NaviyaGaming) <br>
+- 📫 **Reach me :** **navindu.subasinghe@gmail.com** <br>
+- 🌐 **Web Page:** [Navindu's Portfolio](https://navindu.allclouds.lk/) <br>
+- ⏳ **Current Status:** Upgrading AI & Security protocols.
 </td>
-<td width="50%" align="center">
+<td width="30%" align="center">
   <img align="center" alt="Coding" width="450" src="https://github.com/NaviyaGaming/NaviyaGaming/blob/main/white%20text.png">
 </td>
 </tr>
