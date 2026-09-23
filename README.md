@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Navindu Subasinghe</h1>
-<h3 align="center">a Computer Science undergraduate a passionate in robotics and IoT projects</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Navindu+Vishvanath;A+Computer+Science+undergraduate+at+Kothalawala+Defencse+University)](https://git.io/typing-svg)
+<h3 align="center"> A passionate in robotics and IoT projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /> </p>
 
