@@ -80,3 +80,17 @@
 <br>
 
 <h2 align='center'>Thank You!</h2>
+<div align="center" width="1000">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
+
+<!--
+USED:
+1. Markdown: https://github.github.com/gfm/
+2. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons
+3. Header/Footer: https://github.com/kyechan99/capsule-render
+4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
+5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
+6. Badges: https://shields.io
+-->
