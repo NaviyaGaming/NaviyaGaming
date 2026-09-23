@@ -12,6 +12,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> </p>
 
 ---
+
 <table align="center" style="border: 2px solid #0d1017">
 <tr>
 <td width="70%" align="left">
