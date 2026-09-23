@@ -1,3 +1,6 @@
+
+---
+
 <div align="center">
   
 <!-- Cyberpunk Typing Animation -->
@@ -5,7 +8,7 @@
 
 <img src="https://github.com/NaviyaGaming/NaviyaGaming/blob/main/Banner_.png" width="2000" alt="Navindu Vishvanath" />
 
-</div>
+
 
 <h3 align="center">I'm Navindu Vishvanath, a Computer Science undergraduate at KDU. I am passionate about technology and plan to specialize in Artificial Intelligence and Cybersecurity after my degree. I enjoy solving complex problems and continuously learning new technologies to expand my skill set. Beyond academics, I work as a graphic designer and am an active scout who enjoys hiking pursuits that have shaped my discipline, teamwork and spirit of exploration.</h3>
 
@@ -27,10 +30,12 @@
 </td>
 </tr>
 </table>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p >
 <a href="https://linkedin.com/in/navindu-subasinghe" target="blank"><img align="center" src="https://github.com/NaviyaGaming/skill-icons/blob/main/icons/LinkedIn.svg" alt="navindu-subasinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/navindu_vishvanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navindu_vishvanath" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@the-traitor-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@the-traitor-s" height="30" width="40" /></a>
@@ -38,7 +43,8 @@
 <a href="https://www.leetcode.com/naviyagaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naviyagaming" height="30" width="40" /></a>
 <a href="https://discord.gg/navinduvishwanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="navinduvishwanath" height="30" width="40" /></a>
 </p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -62,35 +68,29 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/NaviyaGaming/skill-icons/blob/main/icons/Blender-Light.svg" alt="blender" width="40" height="40"/> 
   </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/NaviyaGaming/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> 
  </p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naviyagaming&" alt="naviyagaming" /></p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</div>
 
+---
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 <p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <br>
 
-<h2 align='center'>Thank You!</h2>
-<div align="center" width="1000">
+<p align='center'>Thank You! </p> 
+<div align='center' width="200">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
 </div>
 
-<!--
-USED:
-1. Markdown: https://github.github.com/gfm/
-2. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons
-3. Header/Footer: https://github.com/kyechan99/capsule-render
-4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
-5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
-6. Badges: https://shields.io
--->
+
