@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Navindu+Vishvanath)](https://git.io/typing-svg)
-<h3 align="center">A Computer Science undergraduate.Passionate in robotics and IoT projects</h3>
+<h3 align="center">I'm Navindu Vishvanath, a Computer Science undergraduate at KDU. I am passionate about technology and plan to specialize in Artificial Intelligence and Cybersecurity after my degree. I enjoy solving complex problems and continuously learning new technologies to expand my skill set. Beyond academics, I work as a graphic designer and am an active scout who enjoys hiking pursuits that have shaped my discipline, teamwork and spirit of exploration.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /> </p>
 
