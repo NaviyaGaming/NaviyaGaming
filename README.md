@@ -12,12 +12,12 @@
 
 <h3 align="center">I'm Navindu Vishvanath, a Computer Science undergraduate at KDU. I am passionate about technology and plan to specialize in Artificial Intelligence and Cybersecurity after my degree. I enjoy solving complex problems and continuously learning new technologies to expand my skill set. Beyond academics, I work as a graphic designer and am an active scout who enjoys hiking pursuits that have shaped my discipline, teamwork and spirit of exploration.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> </p>
+<p align="center"> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="45"><img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="45"> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<table align="center" style="border: 2px solid #0d1017">
+<table>
 <tr>
 <td width="70%" align="left">
 - 👨‍💻 **All of my projects are available at:** [projects](https://github.com/NaviyaGaming) <br>
