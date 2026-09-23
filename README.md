@@ -67,5 +67,10 @@
     alt="example" />
 </p>
 
------
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+---
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<br>
+
+<h2 align='center'>Thank You!</h2>
+<br></p>
