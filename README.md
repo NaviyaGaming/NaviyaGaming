@@ -11,7 +11,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> </p>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <table align="center" style="border: 2px solid #0d1017">
 <tr>
@@ -26,6 +27,8 @@
 </td>
 </tr>
 </table>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navindu-subasinghe" target="blank"><img align="center" src="https://github.com/NaviyaGaming/skill-icons/blob/main/icons/LinkedIn.svg" alt="navindu-subasinghe" height="30" width="40" /></a>
@@ -35,6 +38,7 @@
 <a href="https://www.leetcode.com/naviyagaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naviyagaming" height="30" width="40" /></a>
 <a href="https://discord.gg/navinduvishwanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="navinduvishwanath" height="30" width="40" /></a>
 </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -58,19 +62,21 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/NaviyaGaming/skill-icons/blob/main/icons/Blender-Light.svg" alt="blender" width="40" height="40"/> 
   </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/NaviyaGaming/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> 
  </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naviyagaming&" alt="naviyagaming" /></p>
-----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <br>
 
 <h2 align='center'>Thank You!</h2>
-<br></p>
