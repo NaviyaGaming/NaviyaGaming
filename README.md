@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Navindu+Vishvanath)](https://git.io/typing-svg)
 <h3 align="center">A Computer Science undergraduate.Passionate in robotics and IoT projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naviyagaming" alt="naviyagaming" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://navindu.allclouds.lk/](https://navindu.allclouds.lk/)
+- 👨‍💻 All of my projects are available at (https://github.com/NaviyaGaming)
 
 - 📫 How to reach me **navindu.subasinghe@gmail.com**
 
