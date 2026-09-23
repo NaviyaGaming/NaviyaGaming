@@ -9,7 +9,7 @@
 
 <h3 align="center">I'm Navindu Vishvanath, a Computer Science undergraduate at KDU. I am passionate about technology and plan to specialize in Artificial Intelligence and Cybersecurity after my degree. I enjoy solving complex problems and continuously learning new technologies to expand my skill set. Beyond academics, I work as a graphic designer and am an active scout who enjoys hiking pursuits that have shaped my discipline, teamwork and spirit of exploration.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=naviyagaming&label=Profile%20views&color=0e75b6&style=flat" alt="naviyagaming" /><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> </p>
 
 ---
 <table align="center" style="border: 2px solid #0d1017">
@@ -67,3 +67,4 @@
 </p>
 
 -----
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
