@@ -3,32 +3,15 @@
 <!-- Banner -->
 <img src="https://github.com/NaviyaGaming/NaviyaGaming/blob/main/Banner_.png" width="100%" alt="Navindu Vishvanath" />
 
-<br/>
+<br/><br/>
+
+<!-- Intro Text -->
+<!-- Cyberpunk Typing Animation -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm)](https://git.io/typing-svg)
 
 <!-- Custom Continuous Name Path Drawing Animation -->
-<!-- Replace the following SVG block entirely if you ever change your name -->
-<a href="https://git.io/navindu-svg">
-  <img src="https://raw.githubusercontent.com/NaviyaGaming/NaviyaGaming/main/resources/navindu_name_path.svg" alt="Hi, I'm Navindu Vishvanath 👋 [cite: Drawing Path]" />
-</a>
-<!-- Inlined SVG to ensure animation works in modern browsers -->
-<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
-  <svg width="600" height="200" viewBox="0 0 600 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .navindu-text { font-family: 'Fira Code', monospace; font-size: 26px; fill: #0E75B6; weight: 600; text-anchor: middle; dominant-baseline: middle; }
-      .navindu-path { stroke: #0E75B6; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; fill: none; stroke-dasharray: 2000; stroke-dashoffset: 2000; animation: drawName 5s linear infinite; }
-      @keyframes drawName { 
-        0% { stroke-dashoffset: 2000; }
-        70% { stroke-dashoffset: 0; }
-        85% { stroke-dashoffset: 0; }
-        100% { stroke-dashoffset: -2000; }
-      }
-    </style>
-    <!-- Text Line 1 -->
-    <text x="300" y="50" class="navindu-text">Hi, I'm Navindu Vishvanath 👋</text>
-    <!-- Custom Single Path Drawing [cite: spells Navindu Vishvanath] -->
-    <path class="navindu-path" d="M50 120 C 60 90, 80 80, 95 120 L 105 145 C 115 170, 130 160, 140 120 C 150 80, 160 80, 170 120 C 175 145, 185 145, 190 120 C 200 80, 210 80, 220 120 M230 120 C 240 100, 250 100, 260 120 L 270 145 C 280 170, 290 160, 300 120 C 310 80, 320 80, 330 120 C 335 145, 345 145, 350 120 C 360 80, 370 80, 380 120 M390 120 C 400 100, 410 100, 420 120 L 430 145 C 440 170, 450 160, 460 120 C 470 80, 480 80, 490 120 C 495 145, 505 145, 510 120 C 520 80, 530 80, 540 120 Z" />
-  </svg>
-</div>
+<img src="navindu.svg" alt="Navindu Vishvanath Drawing Path" width="600" />
 
 <br/>
 
@@ -41,7 +24,7 @@
 
 <!-- About Me -->
 <p align="center" style="font-size: 16px; max-width: 800px; margin: 0 auto;">
-  I am a passionate technologist who loves solving complex problems and continuously expanding my skill set. Innovating at the intersection of <b>Artificial Intelligence</b> and <b>Cybersecurity</b>, I am driven by the challenge of learning new technologies. Beyond the screen, hiking pursuits and my life as an active scout have deeply shaped my discipline, teamwork, and spirit of exploration.
+  I'm Navindu Vishvanath, a Computer Science undergraduate at KDU. I am passionate about technology and plan to specialize in Artificial Intelligence and Cybersecurity after my degree. I enjoy solving complex problems and continuously learning new technologies to expand my skill set. Beyond academics, I work as a graphic designer and am an active scout who enjoys hiking pursuits that have shaped my discipline, teamwork and spirit of exploration.
 </p>
 
 <br/>
