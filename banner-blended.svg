@@ -1,0 +1,14 @@
+<svg width="100%" height="auto" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- This creates a radial gradient that is solid in the middle and completely transparent at the edges -->
+    <radialGradient id="fadeEdge" cx="50%" cy="50%" r="50%">
+      <stop offset="60%" stop-color="white" stop-opacity="1" />
+      <stop offset="100%" stop-color="white" stop-opacity="0" />
+    </radialGradient>
+    <mask id="imageMask">
+      <rect width="1920" height="1080" fill="url(#fadeEdge)" />
+    </mask>
+  </defs>
+  <!-- Replace the href below with the RAW link to your actual banner -->
+  <image href="https://raw.githubusercontent.com/NaviyaGaming/NaviyaGaming/main/Banner_.png" width="1920" height="1080" mask="url(#imageMask)" />
+</svg>
