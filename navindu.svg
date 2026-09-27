@@ -1,22 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Pacifico&amp;display=swap');
-    .name {
-      font-family: 'Pacifico', cursive;
-      font-size: 55px;
-      fill: transparent;
-      stroke: #0E75B6;
-      stroke-width: 2.5;
-      stroke-dasharray: 800;
-      stroke-dashoffset: 800;
-      animation: drawName 5s ease-in-out infinite;
-    }
-    @keyframes drawName {
-      0% { stroke-dashoffset: 800; fill: transparent; }
-      50% { stroke-dashoffset: 0; fill: transparent; }
-      70% { stroke-dashoffset: 0; fill: #0E75B6; stroke: transparent; }
-      100% { stroke-dashoffset: 0; fill: #0E75B6; stroke: transparent; }
-    }
-  </style>
-  <text x="50%" y="60%" text-anchor="middle" dominant-baseline="middle" class="name">Navindu Vishvanath</text>
+<svg class="svg-logo" viewBox="0 0 620 100" width="100%" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .draw-path {
+            fill: none;
+            stroke: #0E75B6; 
+            stroke-width: 3.5;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            /* 250 covers the length of the longest individual letter */
+            stroke-dasharray: 250;
+            stroke-dashoffset: 250;
+        }
+
+        /* 
+           This sequence gives each letter exactly 5% of the timeline to draw, 
+           ensuring a perfect left-to-right "one-by-one" writing effect. 
+        */
+        .l1  { animation: d1 7s infinite; }  @keyframes d1  { 0% {stroke-dashoffset: 250;} 5% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l2  { animation: d2 7s infinite; }  @keyframes d2  { 0%, 5% {stroke-dashoffset: 250;} 10% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l3  { animation: d3 7s infinite; }  @keyframes d3  { 0%, 10% {stroke-dashoffset: 250;} 15% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l4  { animation: d4 7s infinite; }  @keyframes d4  { 0%, 15% {stroke-dashoffset: 250;} 20% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l5  { animation: d5 7s infinite; }  @keyframes d5  { 0%, 20% {stroke-dashoffset: 250;} 25% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l6  { animation: d6 7s infinite; }  @keyframes d6  { 0%, 25% {stroke-dashoffset: 250;} 30% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l7  { animation: d7 7s infinite; }  @keyframes d7  { 0%, 30% {stroke-dashoffset: 250;} 35% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        
+        /* Pause from 35% to 40% for the space between names */
+        
+        .l8  { animation: d8 7s infinite; }  @keyframes d8  { 0%, 40% {stroke-dashoffset: 250;} 45% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l9  { animation: d9 7s infinite; }  @keyframes d9  { 0%, 45% {stroke-dashoffset: 250;} 50% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l10 { animation: d10 7s infinite; } @keyframes d10 { 0%, 50% {stroke-dashoffset: 250;} 55% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l11 { animation: d11 7s infinite; } @keyframes d11 { 0%, 55% {stroke-dashoffset: 250;} 60% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l12 { animation: d12 7s infinite; } @keyframes d12 { 0%, 60% {stroke-dashoffset: 250;} 65% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l13 { animation: d13 7s infinite; } @keyframes d13 { 0%, 65% {stroke-dashoffset: 250;} 70% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l14 { animation: d14 7s infinite; } @keyframes d14 { 0%, 70% {stroke-dashoffset: 250;} 75% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l15 { animation: d15 7s infinite; } @keyframes d15 { 0%, 75% {stroke-dashoffset: 250;} 80% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l16 { animation: d16 7s infinite; } @keyframes d16 { 0%, 80% {stroke-dashoffset: 250;} 85% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+        .l17 { animation: d17 7s infinite; } @keyframes d17 { 0%, 85% {stroke-dashoffset: 250;} 90% {stroke-dashoffset: 0;} 95% {stroke-dashoffset: 0;} 100% {stroke-dashoffset: 250;} }
+    </style>
+
+    <!-- Navindu -->
+    <path class="draw-path l1" d="M 20 70 L 20 20 L 50 70 L 50 20" /> <!-- N -->
+    <path class="draw-path l2" d="M 80 55 C 80 40, 60 40, 60 55 C 60 70, 80 70, 80 55 L 80 70" /> <!-- a -->
+    <path class="draw-path l3" d="M 90 45 L 105 70 L 120 45" /> <!-- v -->
+    <path class="draw-path l4" d="M 130 45 L 130 70 M 130 30 L 130 35" /> <!-- i -->
+    <path class="draw-path l5" d="M 140 45 L 140 70 M 140 55 C 140 40, 170 40, 170 55 L 170 70" /> <!-- n -->
+    <path class="draw-path l6" d="M 200 55 C 200 40, 180 40, 180 55 C 180 70, 200 70, 200 55 L 200 15 L 200 70" /> <!-- d -->
+    <path class="draw-path l7" d="M 210 45 L 210 60 C 210 75, 240 75, 240 60 L 240 45 M 240 45 L 240 70" /> <!-- u -->
+    
+    <!-- Vishvanath -->
+    <path class="draw-path l8"  d="M 270 20 L 285 70 L 300 20" /> <!-- V -->
+    <path class="draw-path l9"  d="M 310 45 L 310 70 M 310 30 L 310 35" /> <!-- i -->
+    <path class="draw-path l10" d="M 340 45 C 320 45, 320 57, 330 57 C 340 57, 340 70, 320 70" /> <!-- s -->
+    <path class="draw-path l11" d="M 350 15 L 350 70 M 350 55 C 350 40, 380 40, 380 55 L 380 70" /> <!-- h -->
+    <path class="draw-path l12" d="M 390 45 L 405 70 L 420 45" /> <!-- v -->
+    <path class="draw-path l13" d="M 450 55 C 450 40, 430 40, 430 55 C 430 70, 450 70, 450 55 L 450 70" /> <!-- a -->
+    <path class="draw-path l14" d="M 460 45 L 460 70 M 460 55 C 460 40, 490 40, 490 55 L 490 70" /> <!-- n -->
+    <path class="draw-path l15" d="M 520 55 C 520 40, 500 40, 500 55 C 500 70, 520 70, 520 55 L 520 70" /> <!-- a -->
+    <path class="draw-path l16" d="M 530 25 L 530 65 C 530 75, 545 75, 545 65 M 520 45 L 545 45" /> <!-- t -->
+    <path class="draw-path l17" d="M 555 15 L 555 70 M 555 55 C 555 40, 585 40, 585 55 L 585 70" /> <!-- h -->
 </svg>
