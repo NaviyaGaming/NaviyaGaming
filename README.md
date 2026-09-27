@@ -6,11 +6,13 @@
 <br/><br/>
 
 <!-- Intro Text -->
-<!-- Cyberpunk Typing Animation -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm)](https://git.io/typing-svg)
+<!-- Cyberpunk Typing Animation with Centering and custom Height to reduce gap -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=35&center=true&vCenter=true&lines=Hi,+I'm" alt="Typing SVG" />
+</a>
 
 <!-- Custom Continuous Name Path Drawing Animation -->
+<!-- Removed linebreaks above this to keep it close to "Hi, I'm" -->
 <img src="navindu.svg" alt="Navindu Vishvanath Drawing Path" width="600" />
 
 <br/>
