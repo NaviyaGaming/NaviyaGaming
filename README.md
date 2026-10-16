@@ -66,7 +66,7 @@
 
 <!-- Tech Stack -->
 <h3>🛠️ Languages and Tools</h3>
-
+ <br/>
 <p align="center">
   <!-- Frontend & Design -->
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/NaviyaGaming/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="45" height="45" style="margin: 5px;"/></a>
@@ -76,6 +76,7 @@
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://github.com/NaviyaGaming/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="45" height="45" style="margin: 5px;"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://github.com/NaviyaGaming/skill-icons/blob/main/icons/Blender-Light.svg" alt="Blender" width="45" height="45" style="margin: 5px;"/></a>
   <br/>
+  <br/>
   <!-- Backend & Database -->
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45" style="margin: 5px;"/></a>
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45" style="margin: 5px;"/></a>
@@ -83,6 +84,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45" style="margin: 5px;"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" style="margin: 5px;"/></a>
   <br/>
+   <br/>
   <!-- Core Programming & Tools -->
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 5px;"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin: 5px;"/></a>
